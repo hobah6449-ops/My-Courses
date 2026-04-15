@@ -9,7 +9,7 @@ body {
     width: 100svw;
     min-height: 100vh;
     overflow-x: hidden;
-    background: linear-gradient(#8e632c8f, #ffffffd0), url("/images/bg.jpg");
+    background: linear-gradient(#8e632c8f, #ffffffd0), url("images/bg.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
